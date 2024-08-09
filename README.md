@@ -43,7 +43,6 @@ We're an open source movement that depends on your support to stay online and th
 ## Latest news
 
 <!--START_SECTION:news-->
-
 - [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
 - [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
 - [What&#39;s new in v5.1?](https://hugoblox.com/blog/whats-new-in-v5.1/)
