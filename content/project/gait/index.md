@@ -5,7 +5,6 @@ draft: true
 # external_link: https://github.com/pytorch/pytorch
 tags:
     - Research
-    - Michigan
     - GeoMCU
 ---
 

@@ -3,9 +3,7 @@ title: Pigs Project
 date: 2023-06-15
 # external_link: https://github.com/pytorch/pytorch
 tags:
-    - Pigs
-    - Michigan
-    - Carnegie Mellon
+    - Pigs Project
     - GeoMCU
 ---
 

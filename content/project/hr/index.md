@@ -4,7 +4,6 @@ date: 2024-07-15
 # external_link: https://github.com/pytorch/pytorch
 tags:
     - Heart Rate
-    - Michigan
     - GeoMCU
 ---
 
