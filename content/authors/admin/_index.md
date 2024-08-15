@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Jesse R Codling
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jesse R
+last_name: Codling
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+# icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,107 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Michigan
+    url: https://umich.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+  - icon: envelope
+    url: 'mailto:codling@umich.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jclds139
+    label: GitHub
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jrcodling
+    label: LinkedIn
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=av3jwjwAAAAJ
+    label: Google Scholar
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8355-7186
+    label: ORCiD
+  - icon: academicons/zotero
+    url: https://www.zotero.org/jclds139
+    label: Zotero
+  - icon: academicons/cv
+    url: uploads/cv.pdf
+    label: Download my CV
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robust and Failure-Tolerant Sensor Networks
+  - Structures as Sensors
+  - Physics-Guided Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: PhD Candidate, Electrical and Computer Engineering
+    institution: University of Michigan
+    date_start: 2021-05-01
+    summary: |-
+        - Advised by <a href=https://peizhang.engin.umich.edu/>Dr. Pei Zhang</a>
+        - Working Thesis Title: *Dynamic Structural Vibration Sensing System for Behavior and Vitals Monitoring through Signal Property Adaptation*
+  - area: MS, Electrical and Computer Engineering
+    institution: University of Michigan
+    date_end: 2023-12-20
+    summary: |-
+        - Advised by <a href=https://peizhang.engin.umich.edu/>Dr. Pei Zhang</a>
+  - area: PhD Credit, Electrical and Computer Engineering
+    institution: Carnegie Mellon University
+    date_start: 2019-08-25
+    date_end: 2021-04-29
+    summary: |-
+        - Advised by <a href=https://peizhang.engin.umich.edu/>Dr. Pei Zhang</a>
+        - Moved with Advisor
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BS, Electrical Engineering
+    institution: Brigham Young University
+    date_end: 2019-04-28
+    summary: |-
+        Includes Research and Teaching Assistantships under:
+        - <a href=https://www.smalleyholography.org/>Dr. Daniel Smalley</a>
+        - <a href=https://ece.byu.edu/randy-beard>Dr. Randy Beard</a>
+        - <a href=https://camacholab.byu.edu/directory/ryan-camacho>Dr. Ryan Camacho</a>
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: RF and Photonics Engineering Intern
+    company_name: Battelle Memorial Institute
+    company_url: 'https://www.battelle.org/'
+    company_logo: ''
+    date_start: 2018-05-01
+    date_end: 2019-08-25
+    summary: |-
+        Summers Only. Responsibilities included:
+        - Investigating techniques for RF-Photonic System Modelling and mitigating optical beating interference
+        - Collaboration with DARPA PM and industry partners on federally funded research projects
+
+        Advised by:
+        - Jonathan Gluck
+        - <a href=https://www.linkedin.com/in/chase-schueler-03969aa/>Dr. Chase Schueler</a>
+        - <a href=https://www.linkedin.com/in/thomas-kent-a42bb633/>Dr. Thomas Kent</a>
+        - <a href=https://electroscience.osu.edu/people/ridgway.57>Dr. Richard Ridgway</a>
+  - position: Undergrad Research Assistant
+    company_name: BYU ElectroHolography Lab
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2016-09-30
+    date_end: 2018-12-15
+    summary: |-
+      - Advised by <a href=https://www.smalleyholography.org/>Dr. Daniel Smalley</a>
+      - Redesigned optical components, control hardware, and RF circuits for modular holographic video system
+      - Managed article writing and publication as an undergrad
+  - position: Undergrad Research Assistant
+    company_name: BYU MAGICC Lab
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2017-05-01
+    date_end: 2017-08-31
+    summary: |-
+      - Advised by <a href=https://ece.byu.edu/randy-beard>Dr. Randy Beard</a>
+      - Assembled drone-based camera hardware for experimental target tracking system
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,73 +129,51 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+        # percent: 60
+        icon: devicon/python
+      - name: Arduino
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: devicon/arduino
+      - name: C
+        icon: devicon/embeddedc
+      - name: MATLAB
         description: ''
-        percent: 40
-        icon: circle-stack
+        icon: devicon/matlab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Thai
+    percent: 60
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Student Travel Grant
+    date: '2023-11-10'
+    awarder: ACM SenSys
+  - title: Best Presentation Award
+    date: '2022-08-24'
+    awarder: European Conference on Precision Livestock Farming (ECPLF)
+  - title: Exemplary Qualifying Exam Performance Distinction
+    date: 2021-04-15
+    awarder: Carnegie Mellon Univerisity, Electrical and Computer Engineering
+    # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    # summary: |
+    #     things
+  - title: "Dean's Fellowship"
+    # certificate_url: https://www.datacamp.com
+    date: '2019-09-01'
+    # icon: cmu_ece
+    awarder: Carnegie Mellon Univerisity, Electrical and Computer Engineering
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jesse R Codling is a Ph.D. Candidate at the University of Michigan, Ann Arbor working with [Dr. Pei Zhang](https://peizhang.engin.umich.edu/). Before moving to the University of Michigan in 2021, he was a Ph.D. Candidate at Carnegie Mellon University. Jesse's research focuses on embedded sensing systems using vibrations to facilitate health and activity monitoring for humans and animals. In particular his work leverages physical environmental information in order to overcome noise and reliability issues inherent when deploying devices in harsh environments.
