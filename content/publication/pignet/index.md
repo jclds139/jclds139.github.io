@@ -20,7 +20,8 @@ publication: '*Proceedings of the 20th International Conference on Information P
   in Sensor Networks (Co-Located with CPS-IoT Week 2021)*'
 doi: 10.1145/3412382.3458902
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3412382.3458902
+featured: true
 tags:
-- Fully-Reviewed Conference
 - Pigs Project
+- Fully-Reviewed Conference
 ---

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-08-15
 type: landing
 
 design:
@@ -42,7 +42,7 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  # - block: collection
+  - block: collection
     id: papers
     content:
       title: Featured Publications

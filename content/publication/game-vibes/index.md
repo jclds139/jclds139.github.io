@@ -1,6 +1,7 @@
 ---
 title: 'GameVibes: Vibration-based Crowd Monitoring for Sports Games through Audience-Game-Facility
   Association Modeling'
+featured: true
 authors:
 - Yiwen Dong
 - Yuyan Wu
@@ -51,8 +52,8 @@ abstract: Crowd monitoring involves tracking and analyzing the behavior of large
   estimation, which correspond to 10% and 12.2% error reduction, respectively, compared
   to the baseline methods without context-specific information.
 tags:
+- Stadiums
 - Fully-Reviewed Conference
 - GeoMCU
-- Stadiums
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3600100.3623750
 ---

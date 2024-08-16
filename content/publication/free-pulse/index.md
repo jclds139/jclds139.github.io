@@ -31,4 +31,5 @@ url_pdf: https://dl.acm.org/doi/pdf/10.1145/3583120.3589812
 tags:
 - Heart Rate
 - Poster/Demo
+featured: true
 ---

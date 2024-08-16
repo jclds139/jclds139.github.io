@@ -33,4 +33,5 @@ url_pdf: https://dl.acm.org/doi/pdf/10.1145/3460418.3480414
 tags:
 - Pigs Project
 - Workshop
+featured: true
 ---
