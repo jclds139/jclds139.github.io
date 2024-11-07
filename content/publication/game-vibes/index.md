@@ -1,7 +1,11 @@
 ---
 title: 'GameVibes: Vibration-based Crowd Monitoring for Sports Games through Audience-Game-Facility
   Association Modeling'
-featured: true
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Yiwen Dong
 - Yuyan Wu
@@ -12,13 +16,28 @@ authors:
 - Hugo Latapie
 - Pei Zhang
 - Hae Young Noh
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
 date: '2023-11-01'
-publishDate: '2024-08-15T21:32:55.120325Z'
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2024-11-07T02:38:43.587944Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - paper-conference
+
+# Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 10th ACM International Conference on Systems for
   Energy-Efficient Buildings, Cities, and Transportation*'
+publication_short: ''
+
 doi: 10.1145/3600100.3623750
+
 abstract: Crowd monitoring involves tracking and analyzing the behavior of large groups
   of people in large-scale public spaces, such as sports games. In sports stadiums,
   understanding audience reactions to the games and their distribution around the
@@ -51,9 +70,47 @@ abstract: Crowd monitoring involves tracking and analyzing the behavior of large
   F-1 score in crowd reaction monitoring and 9.3 mean absolute error in crowd traffic
   estimation, which correspond to 10% and 12.2% error reduction, respectively, compared
   to the baseline methods without context-specific information.
+
+# Summary. An optional shortened abstract.
+summary: ''
+
 tags:
 - Stadiums
-- Fully-Reviewed Conference
-- GeoMCU
+- Fully-reviewed conference
+- Geomcu
+
+# Display this page in a list of Featured pages?
+featured: true
+
+# Links
 url_pdf: https://dl.acm.org/doi/pdf/10.1145/3600100.3623750
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+    - geomcu
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

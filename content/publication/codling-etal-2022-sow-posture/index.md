@@ -1,6 +1,11 @@
 ---
 title: Sow Posture and Feeding Activity Monitoring in a Farrowing Pen Using Ground
   Vibration
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Jesse R Codling
 - Yiwen Dong
@@ -13,11 +18,27 @@ authors:
 - Tami Brown-Brandl
 - Hae Young Noh
 - Pei Zhang
+
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
 date: '2022-08-01'
-publishDate: '2024-08-15T21:32:55.073551Z'
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2024-11-07T02:38:43.539262Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
 - paper-conference
+
+# Publication name and optional abbreviated publication name.
 publication: '*ECPLF 2022 - 10th European Conference on Precision Livestock Farming*'
+publication_short: ''
+
+doi: ''
+
 abstract: Automated monitoring of sow welfare and behaviors is a crucial tool in precision
   swine farming, giving farmers access to continuous streams of sow health information.
   Monitoring the activity of the sows helps farmers detect stress, sickness and signs
@@ -36,9 +57,44 @@ abstract: Automated monitoring of sow welfare and behaviors is a crucial tool in
   piglets, including tree classifiers and principal component analysis. Accuracies
   of over 95% were achieved in sow posture and feeding activity classification, indicating
   the potential of monitoring  ground vibration as a source of health information.
-url_pdf: https://www.researchgate.net/profile/Yiwen-Dong/publication/363694138_Sow_Posture_and_Feeding_Activity_Monitoring_in_a_Farrowing_Pen_using_Ground_Vibration/links/632a28860a708521500b360b/Sow-Posture-and-Feeding-Activity-Monitoring-in-a-Farrowing-Pen-using-Ground-Vibration.pdf
 tags:
 - Conference
-- GeoMCU
-- Pigs Project
+- Geomcu
+- Pigs project
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: https://www.researchgate.net/profile/Yiwen-Dong/publication/363694138_Sow_Posture_and_Feeding_Activity_Monitoring_in_a_Farrowing_Pen_using_Ground_Vibration/links/632a28860a708521500b360b/Sow-Posture-and-Feeding-Activity-Monitoring-in-a-Farrowing-Pen-using-Ground-Vibration.pdf
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+    - pigs
+    - geomcu
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
