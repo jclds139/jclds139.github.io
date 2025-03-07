@@ -5,6 +5,7 @@ date: 2024-07-15
 tags:
     - Heart Rate
     - GeoMCU
+featured: true
 ---
 
 We use our [GeoMCU](../../project/geomcu) hardware to detect heartbeat-induced floor vibrations, enabling ubiquitous heart rate monitoring. Now published in [BuildSys 2024](../../publication/codling-etal-2024-flo-hr-ubiquitous/)

@@ -155,7 +155,10 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Student Travel Grant
+  - title: Best Paper Award (Runner-Up)
+    date: '2024-11-07'
+    awarder: ACM BuildSys
+  - title: NSF Student Travel Grant
     date: '2023-11-10'
     awarder: ACM SenSys
   - title: Best Presentation Award
