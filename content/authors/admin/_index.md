@@ -9,6 +9,9 @@ title: Jesse R Codling
 first_name: Jesse R
 last_name: Codling
 
+# Pronouns (optional)
+<!-- pronouns: he/him -->
+
 # Status emoji
 # status:
 # icon: ☕️
