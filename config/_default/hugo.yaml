@@ -6,7 +6,7 @@
 # Website name
 title: Jesse R Codling
 # Website URL
-baseURL: 'https://websites.umich.edu/~codling/'
+baseURL: 'https://jclds139.github.io/'
 
 ############################
 ## LANGUAGE
@@ -38,11 +38,11 @@ outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
   section: [HTML, RSS]
 imaging:
-  resampleFilter: lanczos
-  quality: 90
-  anchor: smart
-  hint: picture
-timeout: 600000
+  resampleFilter: Lanczos
+  quality: 95
+  anchor: Smart
+  hint: photo
+timeout: 600000s
 taxonomies:
   author: authors
   tag: tags

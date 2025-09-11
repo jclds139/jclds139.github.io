@@ -28,9 +28,15 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*2020 19th ACM/IEEE International Conference on Information Processing
   in Sensor Networks (IPSN)*'
-publication_short: ''
+publication_short: 'IPSN 2020'
 
 doi: 10.1109/IPSN48710.2020.00-10
+
+abstract: This paper presents the Active Structural Occupant Detector, an active vibration sensing system that detects stationary occupants through injection of vibration signals into the floor. Many smart buildings require occupant detection in order to provide personalized services. Some examples include optimized energy usage and security. Several methods currently exist for occupant detection, each with their own drawbacks, such as installation requirements. Structural vibration sensing overcomes many of these drawbacks by measuring impulses created by occupants to infer their movements, but cannot detect stationary occupants. The ASOD utilizes active vibration sources, which inject acoustic waves into the structure then measure how the structure responds to them. Any occupants present interact with these waves, causing changes to the measured signal. By characterizing the changes in how the waves travel, we can predict the presence or lack of an occupant with up to a 97.7% accuracy, as demonstrated by experiments in a real-world environment.
+
+# Summary. An optional shortened abstract.
+summary: ''
+
 tags:
 - Poster/demo
 
@@ -38,7 +44,7 @@ tags:
 featured: false
 
 # Links
-url_pdf: https://drive.google.com/file/u/0/d/1W3COUna0U46Bh3HUC-tO2AVYsZvGQpM0/view
+url_pdf: 'https://drive.google.com/file/u/0/d/1W3COUna0U46Bh3HUC-tO2AVYsZvGQpM0/view'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,5 +73,3 @@ image:
 projects:
     - geomcu
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

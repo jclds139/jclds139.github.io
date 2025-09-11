@@ -1,6 +1,6 @@
 ---
-title: 'Poster Abstract: Listen and Then Sense: Vibration-based Sports Crowd Monitoring
-  by Pre-training with Public Audio Datasets'
+title: 'Poster Abstract: Listen and Then Sense: Vibration-Based Sports Crowd Monitoring
+  by Pre-Training with Public Audio Datasets'
 
 # Authors
 # A YAML list of author names
@@ -24,7 +24,7 @@ author_notes: []
 date: '2024-05-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-11-07T02:38:43.531929Z'
+publishDate: '2025-09-11T01:11:27.580799Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -34,11 +34,11 @@ publication_types:
 # Publication name and optional abbreviated publication name.
 publication: '*2024 23rd ACM/IEEE International Conference on Information Processing
   in Sensor Networks (IPSN)*'
-publication_short: ''
+publication_short: 'IPSN 2024'
 
 doi: 10.1109/IPSN61024.2024.00043
 
-abstract: ''
+abstract: This paper addresses challenges in monitoring human behavior in crowds through floor vibration sensing, overcoming limitations like subjective manual observation, visual occlusions, and audio interference. Our approach involves tackling limited-data vibration signal tasks by conducting pre-training across modalities, leveraging publicly available audio datasets. By leveraging self-supervised representation learning to pre-train on publicly available audio datasets, our approach reduces data requirements, improves robustness, and minimizes the need for human labeling efforts. Evaluation using in-game stadium vibration data with YouTube audio dataset demonstrates up to 5.8× error reduction for crowd behavior.
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -60,7 +60,7 @@ tags:
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/iel8/10577285/10577292/10577402.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -86,7 +86,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - stadium
+  - geomcu
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
