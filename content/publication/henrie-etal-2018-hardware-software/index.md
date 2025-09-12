@@ -49,7 +49,7 @@ tags:
 featured: false
 
 # Links
-url_pdf: "henrie-etal-2018-hardware-software.pdf"
+url_pdf: ""
 url_code: ""
 url_dataset: ""
 url_poster: ""

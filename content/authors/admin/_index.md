@@ -10,7 +10,7 @@ first_name: Jesse R
 last_name: Codling
 
 # Pronouns (optional)
-<!-- pronouns: he/him -->
+pronouns: he/him
 
 # Status emoji
 # status:
@@ -56,6 +56,7 @@ profiles:
     label: Download my CV
 
 interests:
+  - Embedded Systems Design
   - Robust and Failure-Tolerant Sensor Networks
   - Structures as Sensors
   - Physics-Guided Machine Learning
@@ -161,22 +162,26 @@ awards:
   - title: Best Paper Award (Runner-Up)
     date: '2024-11-07'
     awarder: ACM BuildSys
+    icon: academicons/acm
   - title: NSF Student Travel Grant
     date: '2023-11-10'
     awarder: ACM SenSys
+    icon: academicons/acm
   - title: Best Presentation Award
     date: '2022-08-24'
     awarder: European Conference on Precision Livestock Farming (ECPLF)
+    icon: hero/presentation-chart-bar
   - title: Exemplary Qualifying Exam Performance Distinction
     date: 2021-04-15
     awarder: Carnegie Mellon Univerisity, Electrical and Computer Engineering
+    icon: hero/academic-cap
     # url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     # summary: |
     #     things
   - title: "Dean's Fellowship"
     # certificate_url: https://www.datacamp.com
     date: '2019-09-01'
-    # icon: cmu_ece
+    icon: hero/academic-cap
     awarder: Carnegie Mellon Univerisity, Electrical and Computer Engineering
 ---
 

@@ -85,6 +85,7 @@ image:
     caption: ""
     focal_point: ""
     preview_only: false
+    background: white
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
