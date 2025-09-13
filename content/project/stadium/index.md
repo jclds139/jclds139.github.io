@@ -1,5 +1,5 @@
 ---
-itle: GeoMCU  Interface Hardware
+title: Stadium Project
 date: 2024-07-15
 draft: true
 # external_link: https://github.com/pytorch/pytorch
