@@ -1,23 +1,23 @@
 ---
 title:
-    "Poster Abstract: Multiscale Vibration Sensing for Activity and Vital Signs
-    Monitoring in Pig Pens"
+  "Poster Abstract: Multiscale Vibration Sensing for Activity and Vital Signs
+  Monitoring in Pig Pens"
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`),
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-    - Jesse R Codling
-    - Jeffrey D Shulkin
-    - Abhipol Vibhatasilpin
-    - Vedant Adhana
-    - Gary Rohrer
-    - Jeremy Miles
-    - Sudhendu Sharma
-    - Tami Brown-Brandl
-    - Hae Young Noh
-    - Pei Zhang
+  - Jesse R Codling
+  - Jeffrey D Shulkin
+  - Abhipol Vibhatasilpin
+  - Vedant Adhana
+  - Gary Rohrer
+  - Jeremy Miles
+  - Sudhendu Sharma
+  - Tami Brown-Brandl
+  - Hae Young Noh
+  - Pei Zhang
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -31,12 +31,12 @@ publishDate: "2025-09-11T01:11:27.604292Z"
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-    - paper-conference
+  - paper-conference
 
 # Publication name and optional abbreviated publication name.
 publication:
-    "*Proceedings of the 23rd ACM Conference on Embedded Networked Sensor
-    Systems*"
+  "*Proceedings of the 23rd ACM Conference on Embedded Networked Sensor
+  Systems*"
 publication_short: "SenSys 2025"
 
 doi: 10.1145/3715014.3724052
@@ -69,9 +69,9 @@ url_video: ""
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-    caption: ""
-    focal_point: ""
-    preview_only: false
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -79,6 +79,6 @@ image:
 #   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-    - pigs
-    - geomcu
+  - pigs
+  - geomcu
 ---

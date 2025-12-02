@@ -77,7 +77,7 @@ tags:
 featured: false
 
 # Links
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S016816992500910X'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

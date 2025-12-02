@@ -55,7 +55,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://engrxiv.org/preprint/view/5351/8991'
@@ -75,6 +75,7 @@ url_video: ''
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
+  filename: geomcu.jpg
   caption: ''
   focal_point: ''
   preview_only: false
