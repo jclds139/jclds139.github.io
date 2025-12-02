@@ -1,6 +1,5 @@
 ---
-title:
-  "Poster Abstract: Multiscale Vibration Sensing for Activity and Vital Signs
+title: "Poster Abstract: Multiscale Vibration Sensing for Activity and Vital Signs
   Monitoring in Pig Pens"
 
 # Authors
@@ -34,8 +33,7 @@ publication_types:
   - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication:
-  "*Proceedings of the 23rd ACM Conference on Embedded Networked Sensor
+publication: "*Proceedings of the 23rd ACM Conference on Embedded Networked Sensor
   Systems*"
 publication_short: "SenSys 2025"
 

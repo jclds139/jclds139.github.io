@@ -1,18 +1,17 @@
 ---
-title:
-    "Poster Abstract: Sniffing out the City - Vehicular Multimodal Sensing for
-    Environmental and Infrastructure Analysis"
+title: "Poster Abstract: Sniffing out the City - Vehicular Multimodal Sensing for
+  Environmental and Infrastructure Analysis"
 
 # Authors
 # A YAML list of author names
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`),
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-    - Julia Gersey
-    - Jatin Aggarwal
-    - Jiale Zhang
-    - Jesse Codling
-    - Pei Zhang
+  - Julia Gersey
+  - Jatin Aggarwal
+  - Jiale Zhang
+  - Jesse Codling
+  - Pei Zhang
 
 # Author notes (such as 'Equal Contribution')
 # A YAML list of notes for each author in the above `authors` list
@@ -26,12 +25,11 @@ publishDate: "2025-05-07T16:55:00.080749Z"
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-    - paper-conference
+  - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication:
-    "*Proceedings of the 23rd ACM Conference on Embedded Networked Sensor
-    Systems*"
+publication: "*Proceedings of the 23rd ACM Conference on Embedded Networked Sensor
+  Systems*"
 publication_short: "SenSys 2025"
 
 doi: 10.1145/3715014.3724043
@@ -64,9 +62,9 @@ url_video: ""
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-    caption: ""
-    focal_point: ""
-    preview_only: false
+  caption: ""
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -75,4 +73,3 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 ---
-

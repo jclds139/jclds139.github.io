@@ -4,11 +4,12 @@ date: 2023-06-15
 # external_link: https://github.com/pytorch/pytorch
 tags:
 image:
-    hint: picture
-    preview_only: true
+  hint: picture
+  preview_only: true
 ---
 
 Here are a few of the Open Source projects I maintain or regularly contribute to!
+
 <script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
 <div class="repo-card" data-repo="jclds139/hdf5storage"></div>
 <br/>

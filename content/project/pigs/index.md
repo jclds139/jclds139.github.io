@@ -3,8 +3,8 @@ title: Pigs Project
 date: 2023-06-15
 # external_link: https://github.com/pytorch/pytorch
 tags:
-    - Pigs Project
-    - GeoMCU
+  - Pigs Project
+  - GeoMCU
 ---
 
 Precision swine farming has the potential to directly benefit both farmers and pigs through monitoring the pigs' health and growth.

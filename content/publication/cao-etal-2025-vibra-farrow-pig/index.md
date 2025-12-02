@@ -31,15 +31,13 @@ publication_types:
   - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication:
-  "*Proceedings of the 12th ACM International Conference on Systems for
+publication: "*Proceedings of the 12th ACM International Conference on Systems for
   Energy-efficient Buildings, Cities, and Transportation*"
 publication_short: ""
 
 doi: 10.1145/3736425.3772100
 
-abstract:
-  "Farrowing, the onset of parturition in mother pigs (i.e., sows), is a high-risk
+abstract: "Farrowing, the onset of parturition in mother pigs (i.e., sows), is a high-risk
   period for both the sow and her newborn piglets. Early and accurate prediction of
   farrowing time, along with monitoring indicators such as vital signs and pre-farrowing
   behaviors, enables timely assistance and can lead to lower stillbirth rates. However,

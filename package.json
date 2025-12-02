@@ -11,7 +11,12 @@
   "dependencies": {
     "@tailwindcss/cli": "^4.1.12",
     "@tailwindcss/typography": "^0.5.10",
-    "hugoblox": "latest",
     "tailwindcss": "^4.1.12"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.3",
+    "hugoblox": "latest",
+    "prettier-plugin-go-template": "^0.0.15",
+    "prettier-plugin-hugo-post": "^0.4.1"
   }
 }

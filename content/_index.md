@@ -61,7 +61,7 @@ sections:
     id: papers
     content:
       title: Featured Publications
-      text: ''
+      text: ""
       filters:
         folders:
           - publication

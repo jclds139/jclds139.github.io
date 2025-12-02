@@ -1,6 +1,5 @@
 ---
-title:
-  "Poster Abstract: Leveraging General-Purpose Audio Datasets for Vibration-Based
+title: "Poster Abstract: Leveraging General-Purpose Audio Datasets for Vibration-Based
   Crowd Monitoring in Stadiums"
 
 # Authors
@@ -31,8 +30,7 @@ publication_types:
   - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication:
-  "*Proceedings of the 23rd ACM Conference on Embedded Networked Sensor
+publication: "*Proceedings of the 23rd ACM Conference on Embedded Networked Sensor
   Systems*"
 publication_short: "SenSys 2025"
 

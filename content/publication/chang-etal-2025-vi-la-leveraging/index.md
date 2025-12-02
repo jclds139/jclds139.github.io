@@ -1,6 +1,5 @@
 ---
-title:
-  "ViLA: Leveraging General-Purpose Audio for Training Vibration-Based Stadium
+title: "ViLA: Leveraging General-Purpose Audio for Training Vibration-Based Stadium
   Crowd Monitoring Models"
 
 # Authors
@@ -30,15 +29,13 @@ publication_types:
   - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication:
-  "*Proceedings of the 12th ACM International Conference on Systems for
+publication: "*Proceedings of the 12th ACM International Conference on Systems for
   Energy-efficient Buildings, Cities, and Transportation*"
 publication_short: ""
 
 doi: 10.1145/3736425.3770100
 
-abstract:
-  Crowd monitoring in sports stadiums is important to enhance public safety
+abstract: Crowd monitoring in sports stadiums is important to enhance public safety
   and improve audience experience. Existing approaches mainly rely on manual observation,
   cameras, and microphones, which can be disruptive and often raise privacy issues.
   Recently, floor vibration sensing has emerged as a less disruptive and more non-intrusive
