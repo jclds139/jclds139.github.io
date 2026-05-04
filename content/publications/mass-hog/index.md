@@ -82,6 +82,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: "featured-images/masshog.svg"
   background: white
 
 # Associated Projects (optional).

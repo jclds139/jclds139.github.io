@@ -103,6 +103,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
+  filename: "featured-images/gamevibes.svg"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

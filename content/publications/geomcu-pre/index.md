@@ -75,7 +75,7 @@ url_video: ""
 # Publication image
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
-  filename: geomcu.jpg
+  filename: "featured-images/geomcu.jpg"
   caption: ""
   focal_point: ""
   preview_only: false

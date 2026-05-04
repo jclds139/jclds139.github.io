@@ -77,10 +77,10 @@ url_slides: slides.pdf
 # Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: ''
   preview_only: false
-  hint: photo
-  mode: responsive
+  hint: drawing
+  filename: "featured-images/flohr.svg"
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
