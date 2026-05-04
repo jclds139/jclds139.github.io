@@ -1,38 +1,27 @@
----
-# Display name
-title: Jesse R Codling
-
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Jesse R
-last_name: Codling
-
-# Pronouns (optional)
-pronouns: he/him
-
-# Status emoji
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Jesse R Codling
+  given: Jesse R
+  family: Codling
+  alternate: ''  # Example: 王伟
+  # pronunciation: ''  # Example: Wáng Wěi
+  # pronouns: he/him
+# postnominals:
+#   - PhD
+#   - MIEEE
 # status:
-# icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
-# Role/position/tagline
+#   icon: "☕️"
 role: PhD Candidate
+bio: |
+  Jesse R Codling is a Ph.D. Candidate at the University of Michigan, Ann Arbor working with [Dr. Pei Zhang](https://peizhang.engin.umich.edu/). Before moving to the University of Michigan in 2021, he was a Ph.D. Candidate at Carnegie Mellon University. Jesse's research focuses on embedded sensing systems using vibrations to facilitate health and activity monitoring for humans and animals. In particular his work leverages physical environmental information in order to overcome noise and reliability issues inherent when deploying devices in harsh environments.
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
+affiliations:
   - name: University of Michigan
     url: https://umich.edu/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
+links:
   - icon: envelope
     url: "mailto:codling@umich.edu"
     label: E-mail Me
@@ -62,18 +51,28 @@ interests:
   - Physics-Guided Machine Learning
 
 education:
-  - area: PhD Candidate, Electrical and Computer Engineering
+  # - degree: PhD Computer Science
+  #   institution: Stanford University
+  #   start: 2015-09-01
+  #   end: 2019-06-30
+  #   summary: |
+  #     Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+  #   button:
+  #     text: Download dissertation
+  #     url: /resume.pdf
+  #     icon: hero/arrow-down-tray
+  - degree: PhD Candidate, Electrical and Computer Engineering
     institution: University of Michigan
-    date_start: 2021-05-01
+    start: 2021-05-01
     summary: |-
       - Advised by <a href=https://peizhang.engin.umich.edu/>Dr. Pei Zhang</a>
       - Working Thesis Title: *Dynamic Structural Vibration Sensing System for Behavior and Vitals Monitoring through Signal Property Adaptation*
-  - area: MS, Electrical and Computer Engineering
+  - degree: MS, Electrical and Computer Engineering
     institution: University of Michigan
-    date_end: 2023-12-20
+    end: 2023-12-20
     summary: |-
       - Advised by <a href=https://peizhang.engin.umich.edu/>Dr. Pei Zhang</a>
-  - area: PhD Credit, Electrical and Computer Engineering
+  - degree: PhD Credit, Electrical and Computer Engineering
     institution: Carnegie Mellon University
     date_start: 2019-08-25
     date_end: 2021-04-29
@@ -81,21 +80,29 @@ education:
       - Advised by <a href=https://peizhang.engin.umich.edu/>Dr. Pei Zhang</a>
       - Moved with Advisor
 
-  - area: BS, Electrical Engineering
+  - degree: BS, Electrical Engineering
     institution: Brigham Young University
-    date_end: 2019-04-28
+    end: 2019-04-28
     summary: |-
       Includes Research and Teaching Assistantships under:
       - <a href=https://www.smalleyholography.org/>Dr. Daniel Smalley</a>
       - <a href=https://ece.byu.edu/randy-beard>Dr. Randy Beard</a>
       - <a href=https://camacholab.byu.edu/directory/ryan-camacho>Dr. Ryan Camacho</a>
-work:
-  - position: RF and Photonics Engineering Intern
-    company_name: Battelle Memorial Institute
-    company_url: "https://www.battelle.org/"
-    company_logo: ""
-    date_start: 2018-05-01
-    date_end: 2019-08-25
+
+experience:
+  # - role: Senior AI Research Scientist
+  #   org: Meta AI
+  #   start: 2020-01-01
+  #   summary: |
+  #     Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+  #   button:
+  #     text: View portfolio
+  #     url: /
+  #     icon: hero/arrow-down-tray
+  - role: RF and Photonics Engineering Intern
+    org: Battelle Memorial Institute
+    start: 2018-05-01
+    end: 2019-08-25
     summary: |-
       Summers Only. Responsibilities included:
       - Investigating techniques for RF-Photonic System Modelling and mitigating optical beating interference
@@ -106,28 +113,21 @@ work:
       - <a href=https://www.linkedin.com/in/chase-schueler-03969aa/>Dr. Chase Schueler</a>
       - <a href=https://www.linkedin.com/in/thomas-kent-a42bb633/>Dr. Thomas Kent</a>
       - <a href=https://electroscience.osu.edu/people/ridgway.57>Dr. Richard Ridgway</a>
-  - position: Undergrad Research Assistant
-    company_name: BYU ElectroHolography Lab
-    company_url: ""
-    company_logo: ""
-    date_start: 2016-09-30
-    date_end: 2018-12-15
+  - role: Undergrad Research Assistant
+    org: BYU ElectroHolography Lab
+    start: 2016-09-30
+    end: 2018-12-15
     summary: |-
       - Advised by <a href=https://www.smalleyholography.org/>Dr. Daniel Smalley</a>
       - Redesigned optical components, control hardware, and RF circuits for modular holographic video system
       - Managed article writing and publication as an undergrad
-  - position: Undergrad Research Assistant
-    company_name: BYU MAGICC Lab
-    company_url: ""
-    company_logo: ""
-    date_start: 2017-05-01
-    date_end: 2017-08-31
+  - role: Undergrad Research Assistant
+    org: BYU MAGICC Lab
+    start: 2017-05-01
+    end: 2017-08-31
     summary: |-
       - Advised by <a href=https://ece.byu.edu/randy-beard>Dr. Randy Beard</a>
       - Assembled drone-based camera hardware for experimental target tracking system
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -150,15 +150,18 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    level: 5
+    label: Native
   - name: Thai
-    percent: 60
+    level: 3
+    label: Fluent
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  # - title: Best Paper Award
+  #   awarder: NeurIPS
+  #   date: "2022-12-01"
+  #   summary: Awarded for groundbreaking work on efficient training of large models.
+  #   icon: hero/trophy
   - title: Best Paper Award (Runner-Up)
     date: "2024-11-07"
     awarder: ACM BuildSys
@@ -183,8 +186,3 @@ awards:
     date: "2019-09-01"
     icon: hero/academic-cap
     awarder: Carnegie Mellon Univerisity, Electrical and Computer Engineering
----
-
-## About Me
-
-Jesse R Codling is a Ph.D. Candidate at the University of Michigan, Ann Arbor working with [Dr. Pei Zhang](https://peizhang.engin.umich.edu/). Before moving to the University of Michigan in 2021, he was a Ph.D. Candidate at Carnegie Mellon University. Jesse's research focuses on embedded sensing systems using vibrations to facilitate health and activity monitoring for humans and animals. In particular his work leverages physical environmental information in order to overcome noise and reliability issues inherent when deploying devices in harsh environments.

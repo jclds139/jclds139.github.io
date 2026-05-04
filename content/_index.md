@@ -1,27 +1,29 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2024-08-15
+title: ''
+summary: ''
+date: 2022-10-24
 type: landing
-
-design:
-  # Default section spacing
-  spacing: "6rem"
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
+      username: me
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/cv.pdf
+      headings:
+        about: ''
+        education: ''
+        interests: ''
     design:
-      css_class: dark
+      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        color: black
+        gradient_mesh:
+          enable: true
         image:
           # Add your image background to `assets/media/`.
           filename: connector_bg.svg
@@ -30,6 +32,11 @@ sections:
           size: cover
           position: center
           parallax: false
+
+      # Name heading sizing to accommodate long or short names
+      name:
+        size: md # Options: xs, sm, md, lg (default), xl
+
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
@@ -52,7 +59,7 @@ sections:
       title: Featured Projects
       filters:
         folders:
-          - project
+          - projects
         featured_only: true
     design:
       view: article-grid
@@ -61,10 +68,9 @@ sections:
     id: papers
     content:
       title: Featured Publications
-      text: ""
       filters:
         folders:
-          - publication
+          - publications
         featured_only: true
     design:
       view: article-grid
@@ -75,7 +81,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publications
         exclude_featured: false
     design:
       view: citation

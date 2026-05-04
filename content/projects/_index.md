@@ -1,11 +1,11 @@
 ---
-title: "Projects"
+title: 'Projects'
 date: 2024-05-19
 type: landing
 
-design:
-  # Section spacing
-  spacing: "5rem"
+# design:
+#   # Section spacing
+#   spacing: "5rem"
 
 # Page sections
 sections:
@@ -15,11 +15,11 @@ sections:
       text: Here are a few of the biggest projects I've worked on!
       filters:
         folders:
-          - project
+          - projects
     design:
       view: article-grid
       fill_image: false
-      columns: 2
+      columns: 3
       show_date: false
       show_read_time: false
       show_read_more: false
